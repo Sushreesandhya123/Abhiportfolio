@@ -30,7 +30,7 @@ const Contact = () => {
 
   return (
     <div id="Contact" className="flex flex-col justify-center items-center py-8 bg-[#1a2036] w-full">
-      <div className="flex flex-col text-white space-y-2 justify-center mx-auto pb-2">
+      <div className="flex flex-col text-white space-y-2  justify-center mx-auto pb-2">
         <h1 className="font-bold text-3xl sm:text-5xl text-center">Contact Abhishek Verma</h1>
         <p className="md:text-lg text-white w-[90%] text-center mx-auto">
           Feel free to reach out anytime! Whether you have a question, feedback, or just want to say hello, I’d be thrilled to hear from you. Drop a message, and I’ll get back to you as soon as I can!
